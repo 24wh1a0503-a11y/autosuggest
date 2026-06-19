@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "verifying my git set-up : )",
+  "homepage": "https://github.com/24wh1a0503-a11y/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/24wh1a0503-a11y/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24wh1a0503-a11y/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "sumana",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
