@@ -4,3 +4,17 @@ h1 {
 h2 {
     color: rgb(15, 137, 186);
 }
+#heading-2{ 
+    color: aqua;
+}
+
+.heading {
+    color: blueviolet;
+}
+.para{
+    border: 2px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+}
