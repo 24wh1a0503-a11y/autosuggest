@@ -1,0 +1,36 @@
+.main-content{
+    text-align: center;
+
+}
+
+.gear{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.pill{
+    position: fixed;
+    top:15px;
+    right: 20px;
+}
+.search-box{
+    border-radius:20px;
+    padding-left:50px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-top:10px;
+}
+.lens{
+    position:relative;
+    left:30px;
+    /*
+    top:20px; or bottom:20px; or left:20px; or right:20px;
+    */
+}
+.logo{
+    color:aqua;
+}
+.tagline{
+    color:grey;
+}
